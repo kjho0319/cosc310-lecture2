@@ -1,3 +1,4 @@
+# Exercise 1: Menu filtering
 """Exercise 1: Menu filtering.
 
 Load data/menu.json and print every AVAILABLE item under $10.00,
